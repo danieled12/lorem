@@ -1,0 +1,44 @@
+.show {
+  text-align: center;
+}
+
+.hide {
+  text-align: center;
+}
+
+.colors {
+  text-align: center;
+}
+
+#button1 {
+  background-color: blue;
+}
+
+#button2 {
+  background-color: green;
+}
+
+#button3 {
+  background-color: orange;
+}
+
+p {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.orange {
+  color: orange;
+}
